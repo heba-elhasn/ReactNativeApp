@@ -1,0 +1,10 @@
+{
+    "recommendations": [
+        "coenraads.bracket-pair-colorizer-2",
+        "planbcoding.vscode-react-refactor",
+        "dbaeumer.vscode-eslint",
+        "laurenttreguier.vscode-simple-icons",
+        "formulahendry.auto-rename-tag",
+        "vincaslt.highlight-matching-tag"
+    ]
+}
